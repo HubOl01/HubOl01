@@ -8,9 +8,9 @@
 - Creator: My Songbook, Мой универ - ИГХТУ
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hubol01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hubol01&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hubol01&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubol01&theme=dark&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubol01&theme=dark&layout=compact&hide_border=true)  
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubol01&show_icons=true&theme=dark) -->
