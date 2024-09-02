@@ -5,7 +5,7 @@
 <!-- 👋 Hi, I'm @HubOl01 -->
 - Mobile App Developer, FullStack developer
 - Languages: C#, Python, TypeScript, PHP, Dart, Kotlin
-- Creator: My Songbook, Мой универ - ИГХТУ
+- Creator: [My Songbook](https://github.com/HubOl01/my_songbook), [Мой универ - ИГХТУ](https://github.com/HubOl01/my_university_isuct/blob/master/README.md)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hubol01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hubol01&theme=dark&hide_border=true)](https://git.io/streak-stats)
