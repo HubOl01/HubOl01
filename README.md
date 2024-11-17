@@ -4,7 +4,7 @@
 
 <!-- 👋 Hi, I'm @HubOl01 -->
 - Mobile App Developer, FullStack developer
-- Languages: C#, Python, TypeScript, PHP, Dart, Kotlin
+- Languages: C#, Python, JavaScript, TypeScript, PHP, Dart, Kotlin
 - Frameworks: Flutter, Jetpack Compose, React, NestJS
 - Creator: [My Songbook](https://github.com/HubOl01/my_songbook), [Мой универ - ИГХТУ](https://github.com/HubOl01/my_university_isuct/blob/master/README.md)
 
