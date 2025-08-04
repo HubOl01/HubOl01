@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
 
 <!-- 👋 Hi, I'm @HubOl01 -->
-- Mobile App Developer, FullStack developer
+- Mobile App Developer, FullStack developer, C#/.NET developer
 - Languages: C#, Python, JavaScript, TypeScript, PHP, Dart, Kotlin, C++
 - Frameworks: Flutter, Jetpack Compose, React, NestJS, Angular, ASP.NET Core
 - Creator: [My Songbook](https://github.com/HubOl01/my_songbook), [Мой универ - ИГХТУ](https://github.com/HubOl01/my_university_isuct/blob/master/README.md)
